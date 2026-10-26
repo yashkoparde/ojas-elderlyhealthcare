@@ -13,3 +13,4 @@
 [11] feat(reminders): support recurring medication schedules @ 2026-10-26T04:53:40Z
 [12] feat(ui): add high-contrast accessibility theme @ 2026-10-25T23:51:31Z
 [13] feat(notifications): add caregiver alert escalation logic @ 2026-10-26T11:59:12Z
+[14] feat(vitals): integrate blood pressure logging @ 2026-10-26T06:51:42Z

@@ -18,3 +18,4 @@
 [16] feat(vitals): implement SpO2 tracking screen @ 2026-10-26T16:40:47Z
 [17] feat(vitals): add weight trend chart component @ 2026-10-26T19:37:53Z
 [18] feat(onboarding): build guided first-launch walkthrough @ 2026-10-26T23:14:44Z
+[19] feat(search): add doctor and specialist search by specialty @ 2026-10-26T21:23:49Z

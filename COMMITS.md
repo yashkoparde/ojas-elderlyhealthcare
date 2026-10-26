@@ -15,3 +15,4 @@
 [13] feat(notifications): add caregiver alert escalation logic @ 2026-10-26T11:59:12Z
 [14] feat(vitals): integrate blood pressure logging @ 2026-10-26T06:51:42Z
 [15] feat(vitals): add blood glucose monitoring module @ 2026-10-26T15:21:45Z
+[16] feat(vitals): implement SpO2 tracking screen @ 2026-10-26T16:40:47Z

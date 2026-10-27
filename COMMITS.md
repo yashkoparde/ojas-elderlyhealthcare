@@ -22,3 +22,4 @@
 [20] feat(map): show nearest hospitals on interactive map @ 2026-10-27T04:17:53Z
 [21] feat(language): add regional language support (Hindi, Marathi) @ 2026-10-27T02:00:13Z
 [22] feat(voice): implement voice-command navigation for accessibility @ 2026-10-27T04:59:25Z
+[23] feat(care-plan): add personalised care plan builder @ 2026-10-27T06:18:36Z

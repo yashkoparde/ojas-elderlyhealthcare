@@ -20,3 +20,4 @@
 [18] feat(onboarding): build guided first-launch walkthrough @ 2026-10-26T23:14:44Z
 [19] feat(search): add doctor and specialist search by specialty @ 2026-10-26T21:23:49Z
 [20] feat(map): show nearest hospitals on interactive map @ 2026-10-27T04:17:53Z
+[21] feat(language): add regional language support (Hindi, Marathi) @ 2026-10-27T02:00:13Z

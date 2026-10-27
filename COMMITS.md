@@ -29,3 +29,4 @@
 [27] fix(reminders): correct timezone offset for IST notifications @ 2026-10-27T10:08:07Z
 [28] fix(vitals): fix NaN display when glucose value is missing @ 2026-10-27T12:41:17Z
 [29] fix(ui): patch keyboard overlap on login screen (Android) @ 2026-10-27T14:41:37Z
+[30] fix(sos): ensure SOS triggers even with low network signal @ 2026-10-27T15:50:23Z

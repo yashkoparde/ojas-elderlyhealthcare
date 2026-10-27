@@ -23,3 +23,4 @@
 [21] feat(language): add regional language support (Hindi, Marathi) @ 2026-10-27T02:00:13Z
 [22] feat(voice): implement voice-command navigation for accessibility @ 2026-10-27T04:59:25Z
 [23] feat(care-plan): add personalised care plan builder @ 2026-10-27T06:18:36Z
+[24] feat(family): add family dashboard for remote monitoring @ 2026-10-27T03:36:41Z

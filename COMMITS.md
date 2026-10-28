@@ -31,3 +31,4 @@
 [29] fix(ui): patch keyboard overlap on login screen (Android) @ 2026-10-27T14:41:37Z
 [30] fix(sos): ensure SOS triggers even with low network signal @ 2026-10-27T15:50:23Z
 [31] fix(appointments): resolve double-booking edge case @ 2026-10-27T23:05:13Z
+[32] fix(chat): fix message duplication on reconnect @ 2026-10-28T01:10:44Z

@@ -38,3 +38,4 @@
 [36] fix(map): handle location permission denial gracefully @ 2026-10-28T15:36:33Z
 [37] fix(notifications): deduplicate overlapping caregiver alerts @ 2026-10-28T17:25:39Z
 [38] fix(onboarding): skip completed steps on re-launch @ 2026-10-28T11:33:55Z
+[39] fix(search): fix empty-state flicker on slow connections @ 2026-10-28T14:22:40Z

@@ -36,3 +36,4 @@
 [34] fix(diet): correct calorie calculation for Indian food items @ 2026-10-28T04:49:43Z
 [35] fix(reports): fix PDF export crash on large datasets @ 2026-10-28T04:14:45Z
 [36] fix(map): handle location permission denial gracefully @ 2026-10-28T15:36:33Z
+[37] fix(notifications): deduplicate overlapping caregiver alerts @ 2026-10-28T17:25:39Z

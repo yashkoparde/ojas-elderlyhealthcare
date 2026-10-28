@@ -42,3 +42,4 @@
 [40] fix(exercise): correct step-count sync after app background @ 2026-10-28T15:17:10Z
 [41] fix(language): fix RTL layout for Urdu locale @ 2026-10-29T01:54:25Z
 [42] fix(care-plan): prevent null-pointer on empty task list @ 2026-10-28T17:48:52Z
+[43] fix(family): resolve stale data on family dashboard refresh @ 2026-10-28T20:05:13Z

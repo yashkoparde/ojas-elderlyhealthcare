@@ -49,3 +49,4 @@
 [47] refactor(vitals): unify measurement unit conversion helpers @ 2026-10-29T11:08:12Z
 [48] refactor(ui): migrate legacy StyleSheet to design tokens @ 2026-10-29T13:46:12Z
 [49] refactor(reminders): decouple scheduler from notification layer @ 2026-10-29T15:47:47Z
+[50] refactor(chat): replace polling with WebSocket subscription @ 2026-10-29T22:19:20Z

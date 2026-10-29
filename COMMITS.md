@@ -53,3 +53,4 @@
 [51] refactor(appointments): split list and detail into separate screens @ 2026-10-29T14:26:21Z
 [52] refactor(profile): move avatar upload to shared media service @ 2026-10-30T00:59:38Z
 [53] refactor(analytics): centralise event tracking in analytics hook @ 2026-10-29T19:29:36Z
+[54] refactor(diet): extract meal card into reusable component @ 2026-10-29T23:26:32Z

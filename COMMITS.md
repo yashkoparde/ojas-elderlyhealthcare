@@ -46,3 +46,4 @@
 [44] fix(analytics): fix event loss during offline sessions @ 2026-10-28T22:52:45Z
 [45] fix(vitals): resolve chart axis mismatch on date rollover @ 2026-10-29T01:22:02Z
 [46] refactor(auth): extract token storage into dedicated service @ 2026-10-29T10:11:37Z
+[47] refactor(vitals): unify measurement unit conversion helpers @ 2026-10-29T11:08:12Z

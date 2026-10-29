@@ -47,3 +47,4 @@
 [45] fix(vitals): resolve chart axis mismatch on date rollover @ 2026-10-29T01:22:02Z
 [46] refactor(auth): extract token storage into dedicated service @ 2026-10-29T10:11:37Z
 [47] refactor(vitals): unify measurement unit conversion helpers @ 2026-10-29T11:08:12Z
+[48] refactor(ui): migrate legacy StyleSheet to design tokens @ 2026-10-29T13:46:12Z

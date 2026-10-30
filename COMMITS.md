@@ -57,3 +57,4 @@
 [55] refactor(map): move distance calculation to geo utility module @ 2026-10-29T23:59:55Z
 [56] perf(dashboard): lazy-load non-critical widgets on scroll @ 2026-10-30T07:09:33Z
 [57] perf(vitals): cache last 30-day readings in AsyncStorage @ 2026-10-30T03:23:11Z
+[58] perf(images): convert PNG avatars to WebP for 60% size reduction @ 2026-10-30T10:48:32Z

@@ -60,3 +60,4 @@
 [58] perf(images): convert PNG avatars to WebP for 60% size reduction @ 2026-10-30T10:48:32Z
 [59] perf(search): debounce API calls by 300ms to cut requests @ 2026-10-30T14:10:18Z
 [60] perf(reports): stream PDF generation to avoid UI freeze @ 2026-10-30T19:56:29Z
+[61] perf(map): cluster markers for performance on dense views @ 2026-10-30T12:48:29Z

@@ -61,3 +61,4 @@
 [59] perf(search): debounce API calls by 300ms to cut requests @ 2026-10-30T14:10:18Z
 [60] perf(reports): stream PDF generation to avoid UI freeze @ 2026-10-30T19:56:29Z
 [61] perf(map): cluster markers for performance on dense views @ 2026-10-30T12:48:29Z
+[62] test(auth): add unit tests for token refresh edge cases @ 2026-10-30T22:27:57Z

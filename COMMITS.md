@@ -67,3 +67,4 @@
 [65] test(sos): add E2E test for emergency alert dispatch @ 2026-10-31T02:39:12Z
 [66] test(appointments): cover double-booking prevention logic @ 2026-10-31T04:25:02Z
 [67] test(chat): add reconnection resilience tests @ 2026-10-31T11:39:19Z
+[68] test(diet): validate calorie computation with known fixtures @ 2026-10-31T08:26:05Z

@@ -64,3 +64,4 @@
 [62] test(auth): add unit tests for token refresh edge cases @ 2026-10-30T22:27:57Z
 [63] test(vitals): add integration tests for glucose logging flow @ 2026-10-30T20:17:12Z
 [64] test(reminders): mock scheduler in notification unit tests @ 2026-10-31T05:29:45Z
+[65] test(sos): add E2E test for emergency alert dispatch @ 2026-10-31T02:39:12Z

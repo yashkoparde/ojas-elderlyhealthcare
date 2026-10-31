@@ -73,3 +73,4 @@
 [71] test(care-plan): test null-task-list guard branch @ 2026-10-31T15:43:22Z
 [72] docs(readme): update setup instructions for Node 20 @ 2026-10-31T18:23:51Z
 [73] docs(api): document health vitals REST endpoints @ 2026-10-31T17:21:47Z
+[74] docs(architecture): add DDD layer diagram to wiki @ 2026-10-31T16:32:18Z

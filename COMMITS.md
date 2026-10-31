@@ -70,3 +70,4 @@
 [68] test(diet): validate calorie computation with known fixtures @ 2026-10-31T08:26:05Z
 [69] test(exercise): add step-count accuracy regression tests @ 2026-10-31T15:05:58Z
 [70] test(family): test stale-data refresh on dashboard mount @ 2026-10-31T07:46:03Z
+[71] test(care-plan): test null-task-list guard branch @ 2026-10-31T15:43:22Z

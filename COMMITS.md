@@ -74,3 +74,4 @@
 [72] docs(readme): update setup instructions for Node 20 @ 2026-10-31T18:23:51Z
 [73] docs(api): document health vitals REST endpoints @ 2026-10-31T17:21:47Z
 [74] docs(architecture): add DDD layer diagram to wiki @ 2026-10-31T16:32:18Z
+[75] docs(contributing): add PR checklist and coding standards @ 2026-11-01T00:17:55Z

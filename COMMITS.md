@@ -85,3 +85,4 @@
 [83] chore(env): add .env.example with required variable stubs @ 2026-11-01T18:12:25Z
 [84] chore(gitignore): exclude .DS_Store and *.log files @ 2026-11-01T16:46:47Z
 [85] build(android): update targetSdkVersion to 34 @ 2026-11-02T00:29:23Z
+[86] build(ios): bump minimum deployment target to iOS 15 @ 2026-11-01T20:17:26Z

@@ -93,3 +93,4 @@
 [91] style(onboarding): improve illustration spacing on small screens @ 2026-11-02T05:02:49Z
 [92] style(sos): make SOS button 20% larger for better tap target @ 2026-11-02T07:56:28Z
 [93] style(chat): add read-receipt tick icons to message bubbles @ 2026-11-02T19:41:06Z
+[94] security(auth): rotate JWT signing secret and update env docs @ 2026-11-02T17:10:26Z

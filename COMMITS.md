@@ -94,3 +94,4 @@
 [92] style(sos): make SOS button 20% larger for better tap target @ 2026-11-02T07:56:28Z
 [93] style(chat): add read-receipt tick icons to message bubbles @ 2026-11-02T19:41:06Z
 [94] security(auth): rotate JWT signing secret and update env docs @ 2026-11-02T17:10:26Z
+[95] security(api): add rate limiting to medication upload endpoint @ 2026-11-02T23:09:16Z

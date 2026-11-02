@@ -87,3 +87,4 @@
 [85] build(android): update targetSdkVersion to 34 @ 2026-11-02T00:29:23Z
 [86] build(ios): bump minimum deployment target to iOS 15 @ 2026-11-01T20:17:26Z
 [87] build(gradle): enable R8 full-mode for release APK @ 2026-11-01T23:39:46Z
+[88] ci(release): automate Play Store upload on tag push @ 2026-11-02T08:54:39Z

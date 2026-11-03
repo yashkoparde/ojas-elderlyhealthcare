@@ -107,3 +107,4 @@
 [105] feat(reports): add weekly health trend PDF export @ 2026-11-03T21:52:34Z
 [106] feat(diet): add personalised meal plan recommendations @ 2026-11-03T17:37:40Z
 [107] feat(exercise): add daily step-count tracker integration @ 2026-11-03T18:54:07Z
+[108] feat(reminders): support recurring medication schedules @ 2026-11-03T22:15:32Z

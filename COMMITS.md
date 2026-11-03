@@ -103,3 +103,4 @@
 [101] feat(dashboard): introduce health vitals summary widget @ 2026-11-03T14:20:48Z
 [102] feat(appointments): add calendar view for doctor visits @ 2026-11-03T12:09:32Z
 [103] feat(chat): integrate caregiver-patient messaging module @ 2026-11-03T07:34:46Z
+[104] feat(sos): implement one-tap emergency SOS button @ 2026-11-03T20:17:33Z

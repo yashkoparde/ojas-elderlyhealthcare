@@ -96,3 +96,4 @@
 [94] security(auth): rotate JWT signing secret and update env docs @ 2026-11-02T17:10:26Z
 [95] security(api): add rate limiting to medication upload endpoint @ 2026-11-02T23:09:16Z
 [96] security(storage): encrypt sensitive health data at rest @ 2026-11-02T22:08:59Z
+[97] security(deps): patch critical vulnerability in axios 1.6.x @ 2026-11-03T04:34:37Z

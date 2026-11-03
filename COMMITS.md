@@ -97,3 +97,4 @@
 [95] security(api): add rate limiting to medication upload endpoint @ 2026-11-02T23:09:16Z
 [96] security(storage): encrypt sensitive health data at rest @ 2026-11-02T22:08:59Z
 [97] security(deps): patch critical vulnerability in axios 1.6.x @ 2026-11-03T04:34:37Z
+[98] feat(auth): add biometric login support for elderly users @ 2026-11-03T05:57:41Z

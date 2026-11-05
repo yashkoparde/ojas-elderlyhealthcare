@@ -116,3 +116,4 @@
 [114] feat(vitals): add weight trend chart component @ 2026-11-04T13:24:50Z
 [115] feat(onboarding): build guided first-launch walkthrough @ 2026-11-04T10:06:44Z
 [116] feat(search): add doctor and specialist search by specialty @ 2026-11-04T21:16:35Z
+[117] feat(map): show nearest hospitals on interactive map @ 2026-11-05T01:17:18Z

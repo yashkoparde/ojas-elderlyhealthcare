@@ -121,3 +121,4 @@
 [119] feat(voice): implement voice-command navigation for accessibility @ 2026-11-05T03:14:53Z
 [120] feat(care-plan): add personalised care plan builder @ 2026-11-04T23:53:53Z
 [121] feat(family): add family dashboard for remote monitoring @ 2026-11-05T02:26:27Z
+[122] feat(analytics): track engagement metrics for care teams @ 2026-11-05T12:13:49Z

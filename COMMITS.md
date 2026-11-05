@@ -118,3 +118,4 @@
 [116] feat(search): add doctor and specialist search by specialty @ 2026-11-04T21:16:35Z
 [117] feat(map): show nearest hospitals on interactive map @ 2026-11-05T01:17:18Z
 [118] feat(language): add regional language support (Hindi, Marathi) @ 2026-11-05T03:07:04Z
+[119] feat(voice): implement voice-command navigation for accessibility @ 2026-11-05T03:14:53Z

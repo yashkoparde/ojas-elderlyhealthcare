@@ -123,3 +123,4 @@
 [121] feat(family): add family dashboard for remote monitoring @ 2026-11-05T02:26:27Z
 [122] feat(analytics): track engagement metrics for care teams @ 2026-11-05T12:13:49Z
 [123] fix(auth): resolve token refresh race condition on logout @ 2026-11-05T06:55:52Z
+[124] fix(reminders): correct timezone offset for IST notifications @ 2026-11-05T14:41:14Z

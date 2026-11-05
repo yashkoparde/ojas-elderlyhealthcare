@@ -127,3 +127,4 @@
 [125] fix(vitals): fix NaN display when glucose value is missing @ 2026-11-05T10:17:12Z
 [126] fix(ui): patch keyboard overlap on login screen (Android) @ 2026-11-05T21:36:39Z
 [127] fix(sos): ensure SOS triggers even with low network signal @ 2026-11-05T16:52:59Z
+[128] fix(appointments): resolve double-booking edge case @ 2026-11-05T23:50:00Z

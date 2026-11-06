@@ -130,3 +130,4 @@
 [128] fix(appointments): resolve double-booking edge case @ 2026-11-05T23:50:00Z
 [129] fix(chat): fix message duplication on reconnect @ 2026-11-06T04:00:50Z
 [130] fix(profile): sanitise special characters in name field @ 2026-11-05T18:48:29Z
+[131] fix(diet): correct calorie calculation for Indian food items @ 2026-11-06T01:44:12Z

@@ -128,3 +128,4 @@
 [126] fix(ui): patch keyboard overlap on login screen (Android) @ 2026-11-05T21:36:39Z
 [127] fix(sos): ensure SOS triggers even with low network signal @ 2026-11-05T16:52:59Z
 [128] fix(appointments): resolve double-booking edge case @ 2026-11-05T23:50:00Z
+[129] fix(chat): fix message duplication on reconnect @ 2026-11-06T04:00:50Z

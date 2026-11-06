@@ -137,3 +137,4 @@
 [135] fix(onboarding): skip completed steps on re-launch @ 2026-11-06T09:19:33Z
 [136] fix(search): fix empty-state flicker on slow connections @ 2026-11-06T16:27:20Z
 [137] fix(exercise): correct step-count sync after app background @ 2026-11-06T11:53:59Z
+[138] fix(language): fix RTL layout for Urdu locale @ 2026-11-06T23:34:44Z

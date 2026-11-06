@@ -133,3 +133,4 @@
 [131] fix(diet): correct calorie calculation for Indian food items @ 2026-11-06T01:44:12Z
 [132] fix(reports): fix PDF export crash on large datasets @ 2026-11-06T08:43:05Z
 [133] fix(map): handle location permission denial gracefully @ 2026-11-06T06:35:32Z
+[134] fix(notifications): deduplicate overlapping caregiver alerts @ 2026-11-06T09:16:28Z

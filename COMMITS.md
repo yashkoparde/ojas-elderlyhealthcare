@@ -135,3 +135,4 @@
 [133] fix(map): handle location permission denial gracefully @ 2026-11-06T06:35:32Z
 [134] fix(notifications): deduplicate overlapping caregiver alerts @ 2026-11-06T09:16:28Z
 [135] fix(onboarding): skip completed steps on re-launch @ 2026-11-06T09:19:33Z
+[136] fix(search): fix empty-state flicker on slow connections @ 2026-11-06T16:27:20Z

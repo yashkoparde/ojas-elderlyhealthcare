@@ -134,3 +134,4 @@
 [132] fix(reports): fix PDF export crash on large datasets @ 2026-11-06T08:43:05Z
 [133] fix(map): handle location permission denial gracefully @ 2026-11-06T06:35:32Z
 [134] fix(notifications): deduplicate overlapping caregiver alerts @ 2026-11-06T09:16:28Z
+[135] fix(onboarding): skip completed steps on re-launch @ 2026-11-06T09:19:33Z

@@ -153,3 +153,4 @@
 [151] refactor(diet): extract meal card into reusable component @ 2026-11-07T20:49:21Z
 [152] refactor(map): move distance calculation to geo utility module @ 2026-11-08T03:45:47Z
 [153] perf(dashboard): lazy-load non-critical widgets on scroll @ 2026-11-08T04:35:46Z
+[154] perf(vitals): cache last 30-day readings in AsyncStorage @ 2026-11-07T23:12:09Z

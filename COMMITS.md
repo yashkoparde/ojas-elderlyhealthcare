@@ -138,3 +138,4 @@
 [136] fix(search): fix empty-state flicker on slow connections @ 2026-11-06T16:27:20Z
 [137] fix(exercise): correct step-count sync after app background @ 2026-11-06T11:53:59Z
 [138] fix(language): fix RTL layout for Urdu locale @ 2026-11-06T23:34:44Z
+[139] fix(care-plan): prevent null-pointer on empty task list @ 2026-11-07T01:33:41Z

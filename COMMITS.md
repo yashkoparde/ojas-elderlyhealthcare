@@ -151,3 +151,4 @@
 [149] refactor(profile): move avatar upload to shared media service @ 2026-11-07T20:31:46Z
 [150] refactor(analytics): centralise event tracking in analytics hook @ 2026-11-07T22:13:11Z
 [151] refactor(diet): extract meal card into reusable component @ 2026-11-07T20:49:21Z
+[152] refactor(map): move distance calculation to geo utility module @ 2026-11-08T03:45:47Z

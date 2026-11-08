@@ -159,3 +159,4 @@
 [157] perf(reports): stream PDF generation to avoid UI freeze @ 2026-11-08T11:18:20Z
 [158] perf(map): cluster markers for performance on dense views @ 2026-11-08T15:52:30Z
 [159] test(auth): add unit tests for token refresh edge cases @ 2026-11-08T12:04:27Z
+[160] test(vitals): add integration tests for glucose logging flow @ 2026-11-08T22:35:50Z

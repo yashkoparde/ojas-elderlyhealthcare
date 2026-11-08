@@ -154,3 +154,4 @@
 [152] refactor(map): move distance calculation to geo utility module @ 2026-11-08T03:45:47Z
 [153] perf(dashboard): lazy-load non-critical widgets on scroll @ 2026-11-08T04:35:46Z
 [154] perf(vitals): cache last 30-day readings in AsyncStorage @ 2026-11-07T23:12:09Z
+[155] perf(images): convert PNG avatars to WebP for 60% size reduction @ 2026-11-08T06:15:00Z

@@ -163,3 +163,4 @@
 [161] test(reminders): mock scheduler in notification unit tests @ 2026-11-08T15:02:02Z
 [162] test(sos): add E2E test for emergency alert dispatch @ 2026-11-08T16:50:01Z
 [163] test(appointments): cover double-booking prevention logic @ 2026-11-09T01:46:14Z
+[164] test(chat): add reconnection resilience tests @ 2026-11-08T21:32:01Z

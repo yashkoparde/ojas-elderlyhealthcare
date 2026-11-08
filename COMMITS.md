@@ -160,3 +160,4 @@
 [158] perf(map): cluster markers for performance on dense views @ 2026-11-08T15:52:30Z
 [159] test(auth): add unit tests for token refresh edge cases @ 2026-11-08T12:04:27Z
 [160] test(vitals): add integration tests for glucose logging flow @ 2026-11-08T22:35:50Z
+[161] test(reminders): mock scheduler in notification unit tests @ 2026-11-08T15:02:02Z

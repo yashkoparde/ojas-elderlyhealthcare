@@ -172,3 +172,4 @@
 [170] docs(api): document health vitals REST endpoints @ 2026-11-09T13:48:38Z
 [171] docs(architecture): add DDD layer diagram to wiki @ 2026-11-09T18:43:05Z
 [172] docs(contributing): add PR checklist and coding standards @ 2026-11-09T19:59:04Z
+[173] docs(changelog): update CHANGELOG for v1.3 milestone @ 2026-11-09T22:19:12Z

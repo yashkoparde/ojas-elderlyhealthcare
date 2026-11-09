@@ -169,3 +169,4 @@
 [167] test(family): test stale-data refresh on dashboard mount @ 2026-11-09T09:40:23Z
 [168] test(care-plan): test null-task-list guard branch @ 2026-11-09T12:37:07Z
 [169] docs(readme): update setup instructions for Node 20 @ 2026-11-09T18:49:02Z
+[170] docs(api): document health vitals REST endpoints @ 2026-11-09T13:48:38Z

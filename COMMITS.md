@@ -166,3 +166,4 @@
 [164] test(chat): add reconnection resilience tests @ 2026-11-08T21:32:01Z
 [165] test(diet): validate calorie computation with known fixtures @ 2026-11-09T00:06:47Z
 [166] test(exercise): add step-count accuracy regression tests @ 2026-11-09T01:56:03Z
+[167] test(family): test stale-data refresh on dashboard mount @ 2026-11-09T09:40:23Z

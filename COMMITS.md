@@ -164,3 +164,4 @@
 [162] test(sos): add E2E test for emergency alert dispatch @ 2026-11-08T16:50:01Z
 [163] test(appointments): cover double-booking prevention logic @ 2026-11-09T01:46:14Z
 [164] test(chat): add reconnection resilience tests @ 2026-11-08T21:32:01Z
+[165] test(diet): validate calorie computation with known fixtures @ 2026-11-09T00:06:47Z

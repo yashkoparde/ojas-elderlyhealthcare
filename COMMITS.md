@@ -171,3 +171,4 @@
 [169] docs(readme): update setup instructions for Node 20 @ 2026-11-09T18:49:02Z
 [170] docs(api): document health vitals REST endpoints @ 2026-11-09T13:48:38Z
 [171] docs(architecture): add DDD layer diagram to wiki @ 2026-11-09T18:43:05Z
+[172] docs(contributing): add PR checklist and coding standards @ 2026-11-09T19:59:04Z

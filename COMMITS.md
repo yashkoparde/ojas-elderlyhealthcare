@@ -176,3 +176,4 @@
 [174] chore(deps): bump react-native to 0.74.3 @ 2026-11-09T20:05:28Z
 [175] chore(deps): update expo-notifications to latest @ 2026-11-09T23:48:36Z
 [176] chore(deps): remove unused lodash dependency @ 2026-11-10T02:32:22Z
+[177] chore(lint): enforce no-unused-vars rule across codebase @ 2026-11-10T04:31:50Z

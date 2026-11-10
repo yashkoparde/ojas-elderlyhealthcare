@@ -183,3 +183,4 @@
 [181] chore(gitignore): exclude .DS_Store and *.log files @ 2026-11-10T18:12:05Z
 [182] build(android): update targetSdkVersion to 34 @ 2026-11-10T23:30:41Z
 [183] build(ios): bump minimum deployment target to iOS 15 @ 2026-11-10T17:17:50Z
+[184] build(gradle): enable R8 full-mode for release APK @ 2026-11-10T23:00:48Z

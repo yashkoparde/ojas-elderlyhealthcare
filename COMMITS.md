@@ -180,3 +180,4 @@
 [178] chore(ci): add GitHub Actions workflow for lint and test @ 2026-11-10T08:47:17Z
 [179] chore(ci): add Codecov coverage upload step @ 2026-11-10T15:23:26Z
 [180] chore(env): add .env.example with required variable stubs @ 2026-11-10T09:46:42Z
+[181] chore(gitignore): exclude .DS_Store and *.log files @ 2026-11-10T18:12:05Z

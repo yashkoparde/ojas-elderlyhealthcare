@@ -179,3 +179,4 @@
 [177] chore(lint): enforce no-unused-vars rule across codebase @ 2026-11-10T04:31:50Z
 [178] chore(ci): add GitHub Actions workflow for lint and test @ 2026-11-10T08:47:17Z
 [179] chore(ci): add Codecov coverage upload step @ 2026-11-10T15:23:26Z
+[180] chore(env): add .env.example with required variable stubs @ 2026-11-10T09:46:42Z

@@ -192,3 +192,4 @@
 [190] style(chat): add read-receipt tick icons to message bubbles @ 2026-11-11T12:02:59Z
 [191] security(auth): rotate JWT signing secret and update env docs @ 2026-11-11T12:30:52Z
 [192] security(api): add rate limiting to medication upload endpoint @ 2026-11-11T19:22:30Z
+[193] security(storage): encrypt sensitive health data at rest @ 2026-11-11T20:07:46Z

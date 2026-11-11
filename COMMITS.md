@@ -185,3 +185,4 @@
 [183] build(ios): bump minimum deployment target to iOS 15 @ 2026-11-10T17:17:50Z
 [184] build(gradle): enable R8 full-mode for release APK @ 2026-11-10T23:00:48Z
 [185] ci(release): automate Play Store upload on tag push @ 2026-11-11T02:55:53Z
+[186] style(vitals): align card padding to 8px grid @ 2026-11-11T04:00:05Z

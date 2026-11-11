@@ -187,3 +187,4 @@
 [185] ci(release): automate Play Store upload on tag push @ 2026-11-11T02:55:53Z
 [186] style(vitals): align card padding to 8px grid @ 2026-11-11T04:00:05Z
 [187] style(dashboard): standardise heading font weights @ 2026-11-11T07:57:30Z
+[188] style(onboarding): improve illustration spacing on small screens @ 2026-11-11T08:58:56Z

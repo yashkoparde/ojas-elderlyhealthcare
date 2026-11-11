@@ -186,3 +186,4 @@
 [184] build(gradle): enable R8 full-mode for release APK @ 2026-11-10T23:00:48Z
 [185] ci(release): automate Play Store upload on tag push @ 2026-11-11T02:55:53Z
 [186] style(vitals): align card padding to 8px grid @ 2026-11-11T04:00:05Z
+[187] style(dashboard): standardise heading font weights @ 2026-11-11T07:57:30Z

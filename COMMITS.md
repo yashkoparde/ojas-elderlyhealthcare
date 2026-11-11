@@ -189,3 +189,4 @@
 [187] style(dashboard): standardise heading font weights @ 2026-11-11T07:57:30Z
 [188] style(onboarding): improve illustration spacing on small screens @ 2026-11-11T08:58:56Z
 [189] style(sos): make SOS button 20% larger for better tap target @ 2026-11-11T04:33:02Z
+[190] style(chat): add read-receipt tick icons to message bubbles @ 2026-11-11T12:02:59Z

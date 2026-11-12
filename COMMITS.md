@@ -206,3 +206,4 @@
 [204] feat(exercise): add daily step-count tracker integration @ 2026-11-12T19:19:59Z
 [205] feat(reminders): support recurring medication schedules @ 2026-11-12T20:26:00Z
 [206] feat(ui): add high-contrast accessibility theme @ 2026-11-13T01:46:00Z
+[207] feat(notifications): add caregiver alert escalation logic @ 2026-11-12T23:48:05Z

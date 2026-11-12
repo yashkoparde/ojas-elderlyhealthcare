@@ -201,3 +201,4 @@
 [199] feat(appointments): add calendar view for doctor visits @ 2026-11-12T12:04:58Z
 [200] feat(chat): integrate caregiver-patient messaging module @ 2026-11-12T07:54:15Z
 [201] feat(sos): implement one-tap emergency SOS button @ 2026-11-12T14:51:02Z
+[202] feat(reports): add weekly health trend PDF export @ 2026-11-12T15:08:16Z

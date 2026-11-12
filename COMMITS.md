@@ -202,3 +202,4 @@
 [200] feat(chat): integrate caregiver-patient messaging module @ 2026-11-12T07:54:15Z
 [201] feat(sos): implement one-tap emergency SOS button @ 2026-11-12T14:51:02Z
 [202] feat(reports): add weekly health trend PDF export @ 2026-11-12T15:08:16Z
+[203] feat(diet): add personalised meal plan recommendations @ 2026-11-12T14:28:15Z

@@ -211,3 +211,4 @@
 [209] feat(vitals): add blood glucose monitoring module @ 2026-11-13T07:33:20Z
 [210] feat(vitals): implement SpO2 tracking screen @ 2026-11-13T04:23:52Z
 [211] feat(vitals): add weight trend chart component @ 2026-11-13T10:46:25Z
+[212] feat(onboarding): build guided first-launch walkthrough @ 2026-11-13T10:50:46Z

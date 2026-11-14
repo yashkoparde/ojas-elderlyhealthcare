@@ -226,3 +226,4 @@
 [224] fix(sos): ensure SOS triggers even with low network signal @ 2026-11-14T20:17:03Z
 [225] fix(appointments): resolve double-booking edge case @ 2026-11-14T18:21:05Z
 [226] fix(chat): fix message duplication on reconnect @ 2026-11-14T19:26:18Z
+[227] fix(profile): sanitise special characters in name field @ 2026-11-14T20:34:27Z

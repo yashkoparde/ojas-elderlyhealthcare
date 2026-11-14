@@ -222,3 +222,4 @@
 [220] fix(auth): resolve token refresh race condition on logout @ 2026-11-14T10:38:32Z
 [221] fix(reminders): correct timezone offset for IST notifications @ 2026-11-14T11:30:27Z
 [222] fix(vitals): fix NaN display when glucose value is missing @ 2026-11-14T13:18:34Z
+[223] fix(ui): patch keyboard overlap on login screen (Android) @ 2026-11-14T12:17:31Z

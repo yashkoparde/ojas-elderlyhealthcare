@@ -225,3 +225,4 @@
 [223] fix(ui): patch keyboard overlap on login screen (Android) @ 2026-11-14T12:17:31Z
 [224] fix(sos): ensure SOS triggers even with low network signal @ 2026-11-14T20:17:03Z
 [225] fix(appointments): resolve double-booking edge case @ 2026-11-14T18:21:05Z
+[226] fix(chat): fix message duplication on reconnect @ 2026-11-14T19:26:18Z

@@ -238,3 +238,4 @@
 [236] fix(care-plan): prevent null-pointer on empty task list @ 2026-11-15T20:24:56Z
 [237] fix(family): resolve stale data on family dashboard refresh @ 2026-11-15T13:16:40Z
 [238] fix(analytics): fix event loss during offline sessions @ 2026-11-15T16:03:31Z
+[239] fix(vitals): resolve chart axis mismatch on date rollover @ 2026-11-15T17:48:16Z

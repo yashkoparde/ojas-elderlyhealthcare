@@ -233,3 +233,4 @@
 [231] fix(notifications): deduplicate overlapping caregiver alerts @ 2026-11-15T02:56:38Z
 [232] fix(onboarding): skip completed steps on re-launch @ 2026-11-15T11:03:55Z
 [233] fix(search): fix empty-state flicker on slow connections @ 2026-11-15T08:56:49Z
+[234] fix(exercise): correct step-count sync after app background @ 2026-11-15T10:53:43Z

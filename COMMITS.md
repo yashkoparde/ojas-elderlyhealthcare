@@ -229,3 +229,4 @@
 [227] fix(profile): sanitise special characters in name field @ 2026-11-14T20:34:27Z
 [228] fix(diet): correct calorie calculation for Indian food items @ 2026-11-15T02:55:08Z
 [229] fix(reports): fix PDF export crash on large datasets @ 2026-11-15T02:58:13Z
+[230] fix(map): handle location permission denial gracefully @ 2026-11-15T05:36:37Z

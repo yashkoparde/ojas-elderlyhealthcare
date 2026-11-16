@@ -242,3 +242,4 @@
 [240] refactor(auth): extract token storage into dedicated service @ 2026-11-15T21:58:15Z
 [241] refactor(vitals): unify measurement unit conversion helpers @ 2026-11-16T04:39:25Z
 [242] refactor(ui): migrate legacy StyleSheet to design tokens @ 2026-11-16T03:29:37Z
+[243] refactor(reminders): decouple scheduler from notification layer @ 2026-11-16T09:50:42Z

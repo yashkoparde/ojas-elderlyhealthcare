@@ -244,3 +244,4 @@
 [242] refactor(ui): migrate legacy StyleSheet to design tokens @ 2026-11-16T03:29:37Z
 [243] refactor(reminders): decouple scheduler from notification layer @ 2026-11-16T09:50:42Z
 [244] refactor(chat): replace polling with WebSocket subscription @ 2026-11-16T08:42:01Z
+[245] refactor(appointments): split list and detail into separate screens @ 2026-11-16T08:18:39Z
